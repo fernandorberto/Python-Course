@@ -7,6 +7,9 @@ Exercícios
 
 2) Escreva um programa que solicite a data de nascimento do usuário e imprima a data no formato "dd/mm/aaa".
 
+
+
+
 1) Escreva um programa que peça o nome do usuário e em seguida mostre o nome de trás para frente e somente em maiúsculas.
 
 2) Um palíndromo é uma sequência de caracteres cuja leitura é idêntica se feita da direita para esquerda ou vice−versa. Por exemplo: OSSO e OVO são palíndromos. Escreva um programa que peça uma string para o usuário e verifique se é um palíndromo.
